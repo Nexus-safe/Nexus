@@ -127,12 +127,11 @@ pytest tests/
 
 ## 📞 Contact & Support
 
-[Twitter](https://x.com/medical_nexus)
+[Twitter](https://x.com/glpbvibiay)
 
 ## 🙏 Acknowledgments
 
 - OpenAI for AI model development guidance
-- Ethereum Foundation for blockchain infrastructure
 - FastAPI team for the amazing web framework
 - All contributors who have helped shape this project
 
